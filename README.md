@@ -53,8 +53,8 @@ AI-powered learning platform designed to help users study structured courses and
 ### Tech Stack
 Flutter • FastAPI • MongoDB • AI Integration
 
-🔗 Project Repository:
-(https://drive.google.com/file/d/13wswm_mHeJ-3CYMKekMOF2tRd8IbwJ52/view?usp=sharing)
+🔗 Project Link:
+[Deen Tap](https://drive.google.com/file/d/13wswm_mHeJ-3CYMKekMOF2tRd8IbwJ52/view?usp=sharing)
 
 ---
 
@@ -74,8 +74,8 @@ FAISS
 FastAPI  
 Flutter
 
-🔗 Project Repository:
-(https://www.linkedin.com/posts/mostafa-mahmoud-ai_aeyaeraepaejabraepaedaefaeuaepaehaey-rag-ugcPost-7402952610015612930-eQh0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
+🔗 Project Link:
+[Chat bot & Rag system](https://www.linkedin.com/posts/mostafa-mahmoud-ai_aeyaeraepaejabraepaedaefaeuaepaehaey-rag-ugcPost-7402952610015612930-eQh0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
 
 ---
 
@@ -91,8 +91,8 @@ Developed a sentiment analysis system to classify movie reviews as **positive or
 ### Result
 Achieved **87% accuracy** on the dataset.
 
-🔗 Project Repository:
-(https://www.linkedin.com/posts/mostafa-mahmoud-ai_nlp-sentimentanalysis-machinelearning-ugcPost-7370901336386764801-ehQ3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
+🔗 Project Link:
+[Sentiment analysis](https://www.linkedin.com/posts/mostafa-mahmoud-ai_nlp-sentimentanalysis-machinelearning-ugcPost-7370901336386764801-ehQ3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
 
 ---
 
@@ -110,8 +110,8 @@ Python
 MediaPipe  
 Arduino
 
-🔗 Project Repository:
-(https://www.linkedin.com/posts/mostafa-mahmoud-ai_computervision-arduino-mediapipe-activity-7321765035540733952-IiJY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
+🔗 Project Link:
+[Hand Detection](https://www.linkedin.com/posts/mostafa-mahmoud-ai_computervision-arduino-mediapipe-activity-7321765035540733952-IiJY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
 
 ---
 
