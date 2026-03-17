@@ -28,6 +28,7 @@ I enjoy building complete products from **model development to user-facing appli
 - Go
 - MongoDB
 - SQL
+- PostgreSQL
 
 ## Tools
 - Hugging Face
