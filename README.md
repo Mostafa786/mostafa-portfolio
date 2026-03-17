@@ -26,6 +26,8 @@ I enjoy building complete products from **model development to user-facing appli
 ## Backend
 - FastAPI
 - Go
+- PHP
+- Flask
 - MongoDB
 - SQL
 - PostgreSQL
